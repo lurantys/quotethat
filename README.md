@@ -14,7 +14,7 @@ It takes the text of a message, overlays it on the sender's profile picture, and
 
 ## Example
 
-![Example Quote Image]((https://media.discordapp.net/attachments/1266372345761890348/1370105243911589960/quote_image.png?ex=681e4971&is=681cf7f1&hm=9e0b41277b5262cd7c7dceaac98779a73d9c8e8af91a6a763ca7c5db3abdce7a&=&format=webp&quality=lossless))
+![Example Quote Image](https://media.discordapp.net/attachments/1266372345761890348/1370105243911589960/quote_image.png?ex=681e4971&is=681cf7f1&hm=9e0b41277b5262cd7c7dceaac98779a73d9c8e8af91a6a763ca7c5db3abdce7a&=&format=webp&quality=lossless)
 
 ## Installation
 
