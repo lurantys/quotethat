@@ -87,5 +87,3 @@ The bot needs the following permissions:
 MIT License
 
 ---
-
-**Enjoy quoting your friends in style!** 
